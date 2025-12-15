@@ -8,5 +8,7 @@ These challenges were hard to accomplish but I'm delighted with the results! I h
 
 • Book Recommendation Engine Using Knn
 
+• Predict health costs with regression
+
 
 https://www.freecodecamp.org/learn/machine-learning-with-python
