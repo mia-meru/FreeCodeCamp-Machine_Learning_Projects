@@ -10,5 +10,7 @@ These challenges were hard to accomplish but I'm delighted with the results! I h
 
 • Predict health costs with regression
 
+•  SMS text classification
+
 
 https://www.freecodecamp.org/learn/machine-learning-with-python
